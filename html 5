@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> hello world we nomads html v1</title>
+<meta name="description" content="Portal v1 de we nomads.">
+<meta name="author" content="Jesohar"
+</head>
+</head>
+<body>
+  <img src="wnlogo.png" height="60px">
+  <div style="background-color:darkgrey; color:white">
+    <h1>we nomads</h1>
+    <h2>#we travel #we live #we work</h2>
+  </div>
+  <form>
+    search <input type="text" name="search"/> </br>
+  </form>
+  <p align= center>find your</br>space</p>
+  <img src=workki.jpg height="800px">
+  <a href="https://jesohar.com/"> </br> Jesohar</a>
+  <table>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>c</td>
+    </tr>
+  </table>
+  <form>
+    <input name="name" type="text"/> <br/>
+    <input name="email" type="email"/> <br/>
+    <textarea name="message"></textarea>
+    <input type="submit" value="SEND" class="submit"/>
+  </form>
+  <div class="section">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lbfkzhlzyMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</body>
+</html>
